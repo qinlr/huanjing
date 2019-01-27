@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.732" height="15.595" viewBox="0 0 17.732 15.595">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #242526;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="btn_sousuo_disable" class="cls-1" d="M12.169,10.872a6.483,6.483,0,1,1,1.3-3.889,6.473,6.473,0,0,1-1.3,3.889l4.063,3.222Z" transform="translate(0.501 0.5)"/>
+</svg>

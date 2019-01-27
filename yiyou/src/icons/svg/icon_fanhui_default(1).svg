@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.185" height="12.275" viewBox="0 0 7.185 12.275">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bfbfbf;
+      }
+    </style>
+  </defs>
+  <path id="icon_fanhui_default" class="cls-1" d="M5.711,12.025.175,6.554a.584.584,0,0,1,0-.833L5.711.25a.872.872,0,0,1,1.222,0,.848.848,0,0,1,0,1.207L2.2,6.138l4.736,4.68a.848.848,0,0,1,0,1.208.872.872,0,0,1-1.222,0" transform="translate(7.185 12.275) rotate(180)"/>
+</svg>
